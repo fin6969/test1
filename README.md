@@ -1,4 +1,3 @@
-# love
 # Hello, I'm Fin.
 
 ![GitHub followers](https://img.shields.io/github/followers/[fin6969]?label=Follow&style=social)
