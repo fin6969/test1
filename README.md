@@ -18,5 +18,3 @@ I'm a 13-year-old teenage from the Philippines with a passion for coding and a s
 - A space to connect and learn with fellow coders.
 
 Feel free to connect with me on [Facebook](https://www.facebook.com/finlovesbai?mibextid=ZbWKwL) and [Replit](https://replit.com/@fin6969). Let's learn, code, and grow together!
-
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=fin6969)
