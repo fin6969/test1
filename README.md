@@ -1,6 +1,6 @@
 # Hello, I'm Fin.
 
-![GitHub followers](https://img.shields.io/github/followers/[fin6969]?label=Follow&style=social)
+
 ![Replit Profile](https://img.shields.io/badge/Replit-@fin6969-1abc9c)
 ![Facebook Profile](https://img.shields.io/badge/Facebook-[Fin]-1877f2)
 
